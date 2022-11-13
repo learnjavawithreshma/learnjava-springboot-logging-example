@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Reshma Bidikar
+Build-Jdk: 11.0.6
+Implementation-Title: learnjava-springboot-logging-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.learnjava
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/learnjava-springboot-logging-example
+Created-By: Maven Integration for Eclipse
+
